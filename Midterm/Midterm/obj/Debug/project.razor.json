@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Code\\School\\CS1182\\Midterm-20190316T043622Z-001\\Midterm\\Midterm\\Midterm.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

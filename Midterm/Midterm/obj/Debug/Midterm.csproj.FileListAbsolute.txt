@@ -1,0 +1,9 @@
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\obj\Debug\Midterm.Form1.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\Midterm\Midterm\obj\Debug\Midterm.pdb
